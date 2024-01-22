@@ -5,4 +5,5 @@ int main()
 {
 	cout << “Miguel Sicaja” << endl
 	cout << “Bryan Reyes” << endl
+	cout << "Chloe Juarez" << endl
 }
